@@ -1,4 +1,4 @@
-#Problem Statement 
+# Problem Statement 
 Assume that you are sharing a flat with your friend or some other person and you share the various bills like cooking, electricity, Bike Maintenance(maybe), Rent, etc. Each time either of you will pay the amount. You are keeping note of the expenses and at the end of the period of sharing a flat, the person who spent an excess amount shall pay the other. All this process is done manually as on date.
 
 Being a techie, you have observed this problem and thought of making the process digital to an extent in the first version of the application. Your main goals to accomplish are,
